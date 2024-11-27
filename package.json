@@ -27,8 +27,10 @@
     ]
   },
   "dependencies": {
+    "dat.gui": "^0.7.9",
     "express": "^4.17.2",
     "knex": "^2.5.1",
+    "phaser": "^3.87.0",
     "sqlite3": "^5.1.6",
     "superagent": "^8.1.2"
   },
